@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # binance-historical
 
 Utility to retrieve historical data from Binance.
@@ -47,3 +48,6 @@ console.log(result);
 //   ...
 // ]
 ```
+=======
+# binance-history-clone
+>>>>>>> 9d8a4c628768d4ad19452f8185051d04555f6c78
